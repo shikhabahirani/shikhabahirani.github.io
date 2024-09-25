@@ -22,12 +22,12 @@ lang:                  en
 # The title of your blog. Used in the sidebar and the browser tab.
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Shikha Bahirani | AI Solutions Architect
+title:                 Shikha Bahirani | AI Expert, Applied Scientist, Machine Learning Engineer
 
 # A short description (~150 chars) of the page used for the meta description tag.
 description:           >
-  AI Solutions Architect and Applied Scientist transforming cutting-edge ML concepts into 
-  high-impact business solutions across social media, finance, and utilities sectors.
+  AI and Applied Scientist transforming cutting-edge ML concepts into 
+  high-impact business solutions across social media, finance, manufacturing and utilities sectors.
 
 # A shorter description for the sidebar.
 tagline:               Innovating AI for Business Impact
@@ -35,18 +35,18 @@ tagline:               Innovating AI for Business Impact
 # A list of keywords for your blog
 keywords:              [AI Solutions, Machine Learning, Data Science, Full-Stack AI, LLMs, 
                         Agentic Workflows, Stable Diffusion, Cross-Industry AI, FinTech AI, 
-                        Social Media Analytics, Utility Optimization]
+                        Social Media Analytics, Generative AI, AI Expert for hire, AI Expert consultant, AI consultant]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
-logo:                  /assets/img/logo.png
+# logo:                  /assets/img/logo.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   name:                Shikha Bahirani
   email:               shikhabahirani@gmail.com
   # Used by `jekyll-seo-tag`:
-  twitter:             https://x.com/shikhabahirani
+  twitter:             shikhabahirani
   linkedin:            https://www.linkedin.com/in/shikhabahirani/
   github:              https://github.com/shikhabahirani
 
@@ -63,12 +63,12 @@ menu:
   - title:             Contact
     url:               /contact/
 
-# Add links to the footer.
-legal:
-  - title:             Privacy Policy
-    url:               /privacy/
-  - title:             Terms of Service
-    url:               /terms/
+# # Add links to the footer.
+# legal:
+#   - title:             Privacy Policy
+#     url:               /privacy/
+#   - title:             Terms of Service
+#     url:               /terms/
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:             © 2024 Shikha Bahirani. All rights reserved.
@@ -81,7 +81,7 @@ paginate:              5
 paginate_path:         /blog/:num/
 
 # Theme
-theme: jekyll-theme-hydejack
+# theme: jekyll-theme-hydejack
 
 # Customization
 accent_image:          /assets/img/sidebar-bg.jpg
