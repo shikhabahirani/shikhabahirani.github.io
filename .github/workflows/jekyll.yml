@@ -4,7 +4,11 @@ on:
   push:
     branches:
       - main  # or master, depending on your default branch name
-
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+  
 jobs:
   github-pages:
     runs-on: ubuntu-latest
