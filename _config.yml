@@ -39,7 +39,7 @@ keywords:              [AI Solutions, Machine Learning, Data Science, Full-Stack
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
-# logo:                  /assets/img/logo.png
+logo:                  /assets/img/logo.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
@@ -63,12 +63,12 @@ menu:
   - title:             Contact
     url:               /contact/
 
-# # Add links to the footer.
-# legal:
-#   - title:             Privacy Policy
-#     url:               /privacy/
-#   - title:             Terms of Service
-#     url:               /terms/
+# Add links to the footer.
+legal:
+  - title:             Privacy Policy
+    url:               /privacy/
+  - title:             Terms of Service
+    url:               /terms/
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:             © 2024 Shikha Bahirani. All rights reserved.
@@ -81,7 +81,7 @@ paginate:              5
 paginate_path:         /blog/:num/
 
 # Theme
-# theme: jekyll-theme-hydejack
+theme: jekyll-theme-hydejack
 
 # Customization
 accent_image:          /assets/img/sidebar-bg.jpg
